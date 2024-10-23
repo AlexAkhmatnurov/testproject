@@ -1,0 +1,37 @@
+# WP Config
+wp-config.php
+
+
+# ignore these plugins
+wp-content/plugins/hello.php
+
+# ignore specific themes
+wp-content/themes/twenty*/
+
+# ignore everything in the "wp-content" directory, except:
+# "mu-plugins", "plugins", "themes" directory
+wp-content/*
+!wp-content/mu-plugins/
+!wp-content/plugins/
+!wp-content/themes/
+
+# ignore log files and databases
+.DS_Store
+*.DS_Store
+*.log
+*.sql
+*.sqlite
+*.zip
+
+# ignore node dependency directories
+node_modules/
+
+# Other stuff
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
+
+# ignore node dependency directories
+node_modules/
