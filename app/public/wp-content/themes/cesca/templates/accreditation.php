@@ -21,74 +21,38 @@
         <div class="values-card">
             <div class="gray-circle">
                 <img src="<?php echo get_template_directory_uri()."/images/layers.png" ?>" alt="">
-            </div>    
+            </div>  
             <h3>Our features</h3>
-            <div class="values-list">
-                <div class="values-list-entry">
-                    <img src="<?php echo get_template_directory_uri()."/images/check.png" ?>" alt="">
-                    <span class="main-text">Agile structure</span>
-                </div>
-                <div class="values-list-entry">
-                    <img src="<?php echo get_template_directory_uri()."/images/check.png" ?>" alt="">
-                    <span class="main-text">Client centered</span>
-                </div>
-                <div class="values-list-entry">
-                    <img src="<?php echo get_template_directory_uri()."/images/check.png" ?>" alt="">
-                    <span class="main-text">Technical expertise</span>
-                </div>
-                <div class="values-list-entry">
-                    <img src="<?php echo get_template_directory_uri()."/images/check.png" ?>" alt="">
-                    <span class="main-text">Robustness</span>
-                </div>
-            </div>
+            <ul>
+                <li class="main-text">Agile structure</li>
+                <li class="main-text">Client centered</li>
+                <li class="main-text">Technical expertise</li>
+                <li class="main-text">Robustness</li>
+            </ul>
         </div>
         <div class="values-card">
             <div class="gray-circle">
                 <img src="<?php echo get_template_directory_uri()."/images/heart.png" ?>" alt="">
             </div>    
             <h3>Our values</h3>
-            <div class="values-list">
-            <div class="values-list-entry">
-                    <img src="<?php echo get_template_directory_uri()."/images/check.png" ?>" alt="">
-                    <span class="main-text">Ethics & Respect</span>
-                </div>
-                <div class="values-list-entry">
-                    <img src="<?php echo get_template_directory_uri()."/images/check.png" ?>" alt="">
-                    <span class="main-text">Excellence</span>
-                </div>
-                <div class="values-list-entry">
-                    <img src="<?php echo get_template_directory_uri()."/images/check.png" ?>" alt="">
-                    <span class="main-text">Transparency</span>
-                </div>
-                <div class="values-list-entry">
-                    <img src="<?php echo get_template_directory_uri()."/images/check.png" ?>" alt="">
-                    <span class="main-text">Innovation</span>
-                </div>
-            </div>
+            <ul>
+                <li class="main-text">Ethics & Respect</li>
+                <li class="main-text">Excellence</li>
+                <li class="main-text">Transparency</li>
+                <li class="main-text">Innovation</li>
+            </ul>
         </div>
         <div class="values-card">
             <div class="gray-circle">
                 <img src="<?php echo get_template_directory_uri()."/images/trending-up.png" ?>" alt="">
             </div>    
             <h3>Our results</h3>
-            <div class="values-list">
-            <div class="values-list-entry">
-                    <img src="<?php echo get_template_directory_uri()."/images/check.png" ?>" alt="">
-                    <span class="main-text">Effective</span>
-                </div>
-                <div class="values-list-entry">
-                    <img src="<?php echo get_template_directory_uri()."/images/check.png" ?>" alt="">
-                    <span class="main-text">Responsive</span>
-                </div>
-                <div class="values-list-entry">
-                    <img src="<?php echo get_template_directory_uri()."/images/check.png" ?>" alt="">
-                    <span class="main-text">Independent</span>
-                </div>
-                <div class="values-list-entry">
-                    <img src="<?php echo get_template_directory_uri()."/images/check.png" ?>" alt="">
-                    <span class="main-text">High standard</span>
-                </div>
-            </div>
+            <ul>
+                <li class="main-text">Effective</li>
+                <li class="main-text">Responsive</li>
+                <li class="main-text">Independent</li>
+                <li class="main-text">High standard</li>
+            </ul>
         </div>
     </div>
     <div class="request-assistance">
