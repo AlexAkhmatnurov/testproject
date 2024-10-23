@@ -1,0 +1,14 @@
+[18-Oct-2024 18:50:56 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\index.php on line 4
+[18-Oct-2024 23:11:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\header.php:1
+Stack trace:
+#0 C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Alex\\L...', true, Array)
+#2 C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\index.php(2): get_header()
+#4 C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Alex\\L...')
+#5 C:\Users\Alex\Local Sites\testproject\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Alex\\L...')
+#6 C:\Users\Alex\Local Sites\testproject\app\public\index.php(17): require('C:\\Users\\Alex\\L...')
+#7 {main}
+  thrown in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\header.php on line 1
+[21-Oct-2024 01:28:57 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[21-Oct-2024 17:05:10 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\class-wp-customize-widgets.php on line 905
