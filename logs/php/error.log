@@ -12,3 +12,5 @@ Stack trace:
   thrown in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\header.php on line 1
 [21-Oct-2024 01:28:57 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [21-Oct-2024 17:05:10 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[23-Oct-2024 12:58:56 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[23-Oct-2024 12:58:58 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\class-wp-customize-widgets.php on line 905
