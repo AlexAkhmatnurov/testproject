@@ -10,7 +10,7 @@ function cesca_enqueue_styles1() {
 add_action('wp_enqueue_scripts', 'cesca_enqueue_styles1');
 
 function cesca_register_acf_blocks() {
-    register_block_type( __DIR__ . '/blocks/hero' );
+    register_block_type( __DIR__ . '/blocks/cta' );
 }
 
 add_action( 'init', 'cesca_register_acf_blocks' );
