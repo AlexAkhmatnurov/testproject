@@ -6,7 +6,7 @@
                 <img src="<?php echo get_template_directory_uri()."/images/globe.png" ?>" alt="@">
             </div>
             <h3>Consultancy in UK - in Italy</h3>
-            <p>In today's competitive and uncertain market, with risks like Brexit and shifting socio-political dynamics, our approach is designed to effectively manage both challenges and opportunities.</p>
+            <p>In today's competitive and uncertain market, with risks like Brexit and shifting socio-political dynamics, our approach is designed to effectively manage both challenges and opportunities!</p>
             <a class="button-text" href="#">Learn More  <img src="<?php echo get_template_directory_uri()."/images/arrow-right.png" ?>" alt=""></a>
         </div>
         <div class="services-element">
@@ -14,7 +14,7 @@
                 <img src="<?php echo get_template_directory_uri()."/images/coin-stack.png" ?>" alt="@">
             </div>
             <h3>Tax compliance UK / Italy</h3>
-            <p>We bring extensive experience in international issues, offering tax advice to help private and corporate clients comply with regulations, increase savings, and avoid risks.</p>
+            <p>We bring extensive experience in international issues, offering tax advice to help private and corporate clients comply with regulations, increase savings, and avoid risks!</p>
             <a class="button-text" href="#">Learn More  <img src="<?php echo get_template_directory_uri()."/images/arrow-right.png" ?>" alt=""></a>
         </div>
         <div class="services-element">
@@ -22,7 +22,7 @@
                 <img src="<?php echo get_template_directory_uri()."/images/dollar-sign.png" ?>" alt="@">
             </div>
             <h3>High Net Worth & Family Offices</h3>
-            <p>Cesca Accounting offers custom tax and wealth management solutions, advising on tax, trust, estate planning, and wealth management to reduce taxes and protect wealth.</p>
+            <p>Cesca Accounting offers custom tax and wealth management solutions, advising on tax, trust, estate planning, and wealth management to reduce taxes and protect wealth!</p>
             <a class="button-text" href="#">Learn More  <img src="<?php echo get_template_directory_uri()."/images/arrow-right.png" ?>" alt=""></a>
         </div>
         <div class="services-element">
