@@ -14,3 +14,12 @@ Stack trace:
 [21-Oct-2024 17:05:10 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [23-Oct-2024 12:58:56 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [23-Oct-2024 12:58:58 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Alex\Local Sites\testproject\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[28-Oct-2024 23:55:59 UTC] PHP Warning:  Undefined variable $text_color in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\blocks\cta\cta.php on line 30
+[28-Oct-2024 23:56:11 UTC] PHP Warning:  Undefined variable $text_color in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\blocks\cta\cta.php on line 30
+[28-Oct-2024 23:56:27 UTC] PHP Warning:  Undefined variable $text_color in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\blocks\cta\cta.php on line 30
+[28-Oct-2024 23:56:27 UTC] PHP Warning:  Undefined variable $text_color in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\blocks\cta\cta.php on line 30
+[28-Oct-2024 23:56:54 UTC] PHP Warning:  Undefined variable $text_color in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\blocks\cta\cta.php on line 30
+[28-Oct-2024 23:57:54 UTC] PHP Warning:  Undefined variable $text_color in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\blocks\cta\cta.php on line 30
+[28-Oct-2024 23:59:00 UTC] PHP Warning:  Undefined variable $text_color in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\blocks\cta\cta.php on line 30
+[29-Oct-2024 00:00:02 UTC] PHP Warning:  Undefined variable $text_color in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\blocks\cta\cta.php on line 30
+[29-Oct-2024 00:00:16 UTC] PHP Warning:  Undefined variable $text_color in C:\Users\Alex\Local Sites\testproject\app\public\wp-content\themes\cesca\blocks\cta\cta.php on line 30

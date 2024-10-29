@@ -1,0 +1,31 @@
+.cta-grid {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 0.52fr 0.48fr;
+}
+
+.cta-text {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    padding: 10% 20%;
+}
+
+.cta-image {
+    width: 100%;
+    height: auto;
+}
+
+h2 {
+    font-family: Lora;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 52px;
+}
+
+p {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
