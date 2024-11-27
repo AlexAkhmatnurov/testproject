@@ -21,7 +21,7 @@
             <div class="divider"></div>
         </div>
 
-        <img class="picture" src="https://s3-alpha-sig.figma.com/img/aed9/1d98/948982629b607818197de0cd5a75bc93?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HLlrHfbgJtcRU~~GDRVvKTiRDSAFzqZrNhhfZvk~lVagZNd80GP3AVwWep97iLadKyYy4PPDMsZbm~tOJQ7lCzcUH00bd-YiHpCxXeN9sbJZdqeLAaS2rab-q4g9p5Ah7viT2Y6PDTPZn7beGCeSF~t1uhJBOJxkCyYsO3HOFSu~3uPEyZgPnGWLfgwOIOssij1K87UdJf4rdwcFP~3PzZgV5N9fZHockeFpy1CtkcjKuKZXBs1E2Q0o1-S6Nb7PwaK8yUdjyPwmIGYoR2~ubuTgCahJJqsTQRgahvgZV7eEzzr6HtkiQtpQT8Bo0NNBGUTL65nTgtGOSmJ0Cru64g__" alt="#">
+        <img class="picture" src="<?php echo get_template_directory_uri()."/images/hero.png" ?>" alt="#">
 
     </div> 
     <div class="awards">

@@ -214,7 +214,7 @@ h4 {
 .picture {
     width: 100%;
     height: auto;
-    transform: scaleX(-1);
+    /*transform: scaleX(-1);*/
 }
 
 .divider {
